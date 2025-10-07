@@ -1,0 +1,4 @@
+origin	https://github.com/notjakespencer/mcp-workshop-dotnet (fetch)
+origin	https://github.com/notjakespencer/mcp-workshop-dotnet (push)
+upstream	https://github.com/Azure-Samples/mcp-workshop-dotnet.git (fetch)
+upstream	https://github.com/Azure-Samples/mcp-workshop-dotnet.git (push)
